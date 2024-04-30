@@ -12,4 +12,6 @@ This project implements a chatbot that answers user questions based on text extr
 
 1. Clone the repository:
 
-``` git clone https://github.com/UtRaj/PDF_Query_Chatbot.git ```
+```
+git clone https://github.com/UtRaj/PDF_Query_Chatbot.git
+```
