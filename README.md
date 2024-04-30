@@ -15,3 +15,51 @@ This project implements a chatbot that answers user questions based on text extr
 ```
 git clone https://github.com/UtRaj/PDF_Query_Chatbot.git
 ```
+
+2. Navigate to the project directory:
+
+```
+cd pdf-query-chatbot
+```
+
+3. Install the required dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+## **Usage**
+
+1. Run the Streamlit application:
+
+```
+streamlit run app.py
+```
+
+2. Access the application through the provided link in the terminal.
+   
+3. Upload PDF files containing the relevant information.
+   
+4. Ask questions in the provided text input box.
+   
+5. Click on "Submit & Process" to process the uploaded PDFs.
+   
+6. Receive answers based on the context provided in the PDFs.
+
+
+## **Configuration**
+
+Before running the application, ensure you have set up your Google API key in a .env file as follows:
+
+```
+GOOGLE_API_KEY=your-google-api-key
+```
+
+## **Streamlit Link**
+
+[PDF Query Chatbot](https://pdfquerychatbot.streamlit.app/)
+
+
+
+
+
