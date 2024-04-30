@@ -7,3 +7,9 @@ This project implements a chatbot that answers user questions based on text extr
 * Upload PDF files containing relevant information.
 * Ask questions related to the content of the uploaded PDFs.
 * Receive detailed answers based on the context provided in the PDFs.
+
+## **Installation**
+
+1. Clone the repository:
+
+``` 
