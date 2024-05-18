@@ -55,9 +55,7 @@ Before running the application, ensure you have set up your Google API key in a 
 GOOGLE_API_KEY=your-google-api-key
 ```
 
-## **Streamlit Link**
 
-[PDF Query Chatbot](https://pdfquerychatbot.streamlit.app/)
 
 
 
